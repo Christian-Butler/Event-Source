@@ -1,0 +1,2 @@
+Week 1: 
+    Started to on the business concept and requirements for the software project and installed the laravel project on my computer
